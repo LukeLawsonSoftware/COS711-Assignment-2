@@ -1,0 +1,191 @@
+{
+    "1": {
+        "learning_rate": 0.1,
+        "mini_batch_size_ratio": 0.02,
+        "average_num_epochs": 200.0,
+        "training": {
+            "accuracy_mean": 0.6283128797788184,
+            "accuracy_std": 0.014460874806495952,
+            "loss_mean": 0.8047937605726263,
+            "loss_std": 0.015042770193258807,
+            "f1_score_mean": 0.6265975549419732,
+            "f1_score_std": 0.014492365435639316
+        },
+        "testing": {
+            "accuracy_mean": 0.6244391798973083,
+            "accuracy_std": 0.03880898168179934,
+            "loss_mean": 0.8065199553966522,
+            "loss_std": 0.04108501220150763,
+            "f1_score_mean": 0.6226926539150976,
+            "f1_score_std": 0.040029016103345715
+        }
+    },
+    "2": {
+        "learning_rate": 0.1,
+        "mini_batch_size_ratio": 0.1,
+        "average_num_epochs": 185.625,
+        "training": {
+            "accuracy_mean": 0.7351008643035424,
+            "accuracy_std": 0.023640261773551562,
+            "loss_mean": 0.7913191656879016,
+            "loss_std": 0.04320507287922487,
+            "f1_score_mean": 0.7338753382265499,
+            "f1_score_std": 0.02371518509781238
+        },
+        "testing": {
+            "accuracy_mean": 0.6440502628684044,
+            "accuracy_std": 0.01942073660496575,
+            "loss_mean": 0.7512200400233269,
+            "loss_std": 0.03272878488531769,
+            "f1_score_mean": 0.6405803500698519,
+            "f1_score_std": 0.019324866624566756
+        }
+    },
+    "3": {
+        "learning_rate": 0.1,
+        "mini_batch_size_ratio": 1,
+        "average_num_epochs": 92.0,
+        "training": {
+            "accuracy_mean": 0.7852852642536163,
+            "accuracy_std": 0.012241688622958602,
+            "loss_mean": 0.49786122515797615,
+            "loss_std": 0.017307884886237752,
+            "f1_score_mean": 0.783664748195732,
+            "f1_score_std": 0.012409234677517887
+        },
+        "testing": {
+            "accuracy_mean": 0.7234494164586067,
+            "accuracy_std": 0.022291517373512277,
+            "loss_mean": 0.6480700075626373,
+            "loss_std": 0.03136051688318845,
+            "f1_score_mean": 0.7203534471911882,
+            "f1_score_std": 0.023029430188846796
+        }
+    },
+    "4": {
+        "learning_rate": 0.02,
+        "mini_batch_size_ratio": 0.02,
+        "average_num_epochs": 200.0,
+        "training": {
+            "accuracy_mean": 0.6436490142072578,
+            "accuracy_std": 0.01152523054059283,
+            "loss_mean": 0.7979578376047678,
+            "loss_std": 0.01316882413745236,
+            "f1_score_mean": 0.6424576102123267,
+            "f1_score_std": 0.011580071859819002
+        },
+        "testing": {
+            "accuracy_mean": 0.625773698091507,
+            "accuracy_std": 0.03287424891121871,
+            "loss_mean": 0.8134209588170052,
+            "loss_std": 0.05473123156664679,
+            "f1_score_mean": 0.6259681306637505,
+            "f1_score_std": 0.033071750868477454
+        }
+    },
+    "5": {
+        "learning_rate": 0.02,
+        "mini_batch_size_ratio": 0.1,
+        "average_num_epochs": 200.0,
+        "training": {
+            "accuracy_mean": 0.7308796987447078,
+            "accuracy_std": 0.022525784221703843,
+            "loss_mean": 0.8256016570351663,
+            "loss_std": 0.038982555581879144,
+            "f1_score_mean": 0.7288630947764423,
+            "f1_score_std": 0.02348368074001232
+        },
+        "testing": {
+            "accuracy_mean": 0.6516220793128014,
+            "accuracy_std": 0.02451363441921363,
+            "loss_mean": 0.7663424238562584,
+            "loss_std": 0.03995886784197598,
+            "f1_score_mean": 0.6497817853977768,
+            "f1_score_std": 0.02513511982430146
+        }
+    },
+    "6": {
+        "learning_rate": 0.02,
+        "mini_batch_size_ratio": 1,
+        "average_num_epochs": 87.125,
+        "training": {
+            "accuracy_mean": 0.782286211848259,
+            "accuracy_std": 0.008847726286299092,
+            "loss_mean": 0.5056833140552044,
+            "loss_std": 0.01646529130543656,
+            "f1_score_mean": 0.7807810651312155,
+            "f1_score_std": 0.008997658322946548
+        },
+        "testing": {
+            "accuracy_mean": 0.732354149222374,
+            "accuracy_std": 0.021130432128563807,
+            "loss_mean": 0.6379776149988174,
+            "loss_std": 0.041367060196724974,
+            "f1_score_mean": 0.7309290508957427,
+            "f1_score_std": 0.022171452332994963
+        }
+    },
+    "7": {
+        "learning_rate": 0.004,
+        "mini_batch_size_ratio": 0.02,
+        "average_num_epochs": 200.0,
+        "training": {
+            "accuracy_mean": 0.6245258404118508,
+            "accuracy_std": 0.004754410608648295,
+            "loss_mean": 0.8247333658763691,
+            "loss_std": 0.013080489139866973,
+            "f1_score_mean": 0.625247319661443,
+            "f1_score_std": 0.005594156072638949
+        },
+        "testing": {
+            "accuracy_mean": 0.6079245060682297,
+            "accuracy_std": 0.029106836392742325,
+            "loss_mean": 0.8330262452363968,
+            "loss_std": 0.046737318114153395,
+            "f1_score_mean": 0.6094456255514787,
+            "f1_score_std": 0.02851238373458844
+        }
+    },
+    "8": {
+        "learning_rate": 0.004,
+        "mini_batch_size_ratio": 0.1,
+        "average_num_epochs": 200.0,
+        "training": {
+            "accuracy_mean": 0.7170064759489423,
+            "accuracy_std": 0.021418581566752522,
+            "loss_mean": 0.8403622299834619,
+            "loss_std": 0.0454829122130493,
+            "f1_score_mean": 0.7173564806749249,
+            "f1_score_std": 0.021611430847949177
+        },
+        "testing": {
+            "accuracy_mean": 0.6471562013030052,
+            "accuracy_std": 0.03292707256428688,
+            "loss_mean": 0.7838142439723015,
+            "loss_std": 0.04903322712244927,
+            "f1_score_mean": 0.6468388448453282,
+            "f1_score_std": 0.03311499118349197
+        }
+    },
+    "9": {
+        "learning_rate": 0.004,
+        "mini_batch_size_ratio": 1,
+        "average_num_epochs": 83.5,
+        "training": {
+            "accuracy_mean": 0.774486742913723,
+            "accuracy_std": 0.01706896747370632,
+            "loss_mean": 0.5218969620764256,
+            "loss_std": 0.021135351695743734,
+            "f1_score_mean": 0.7726613757589645,
+            "f1_score_std": 0.017483808408734487
+        },
+        "testing": {
+            "accuracy_mean": 0.7167418673634529,
+            "accuracy_std": 0.02365219422250972,
+            "loss_mean": 0.6676647663116455,
+            "loss_std": 0.03840395316615223,
+            "f1_score_mean": 0.7141353603084979,
+            "f1_score_std": 0.024281480124810403
+        }
+    }
+}
